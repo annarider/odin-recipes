@@ -8,6 +8,12 @@ h1 {
     text-align: center;
 }
 
+.container {
+    display: block;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
 .above-fold {
     text-align: center;
 }
