@@ -1,0 +1,19 @@
+* {
+    background-color: rgb(247, 247, 247);
+    color: hsl(202°, 12%, 33%);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.above-fold {
+    text-align: center;
+}
+
+.featured-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
